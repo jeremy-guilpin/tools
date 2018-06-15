@@ -47,3 +47,6 @@ function maPosition(position) {
 	} else {
 		console.error('Votre navigateur n\'accepte pas la géolocalisation');
 	}
+
+// Pour tester en localhost
+chrome://flags/#allow-insecure-localhost
